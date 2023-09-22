@@ -5,6 +5,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+
 ul{
     border-bottom:10px solid #F0E68C;
     text-align: right;
@@ -59,6 +60,8 @@ footer{
     padding-top:22.5px;
     margin-bottom: 0;
     border-bottom:15px solid darkgray;
+    position:absolute;
+    width:100%;
 }
 
 span{
